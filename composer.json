@@ -14,5 +14,7 @@
             "email": "hanwoolderink@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "haydenpierce/class-finder": "^0.5.3"
+    }
 }
